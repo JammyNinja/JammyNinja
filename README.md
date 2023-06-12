@@ -4,7 +4,7 @@ I am expanding on my foundations in Python / Machine Learning / Artifical Intell
 
 I am looking for work as a Junior Data Scientist / Data Engineer / Software Engineer
 
-
+My interests include Tennis, Chess, Bouldering, Meditation, Ultimate Frisbee + Cycling
 
 <!---
 JammyNinja/JammyNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
