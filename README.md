@@ -1,8 +1,8 @@
-Hi, I’m Louis, and I have recently finished Le Wagon's Data Science bootcamp, where I now help out as TA 🎓
+Hi, I’m Louis, and I am a Data Science and Data Analytics Lecturer at Le Wagon 🎓
 
-I am expanding on my foundations in Python / Machine Learning / Artifical Intelligence
+I am looking for work as a Data Scientist / Data Engineer / Data Analyst
 
-I am looking for work as a Junior Data Scientist / Data Engineer / Software Engineer
+I lean towards automation and Data Engineering
 
 My interests include Tennis, Chess, Bouldering, Meditation, Ultimate Frisbee + Cycling
 
